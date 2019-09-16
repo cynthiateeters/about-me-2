@@ -3,10 +3,10 @@
 You are going to have to clone the files from Project 1 into this repo. Once you do that, you are going to edit index.html and styles.css to make the required changes. You are expected to read your text as preparation for this assignment. Also you must use our CSS formatting rules from the CISY 225 Style Guide.
 
 1. Download the clone of your completed Project 1 repo.
-2. Delete the README.md file so it does not overwrite this one. 
-3. Upload the rest of the files into this repo. 
+2. Copy your P1 files into this repo.
+3. Commit your repo and `push` it to GitHub.
 4. Add a footer (with class footer) element to your HTML code. See the header element that is already there for an examlpe.
-5. Add a copyright statement inside your footer using your name. See page 639 of your text to get the code for a copyright symbol.
+5. Add a copyright statement inside your footer using your name. See your text to get the code for a copyright symbol.
 6. Look at the picture in this repo's design folder. Make changes to the CSS to copy how the footer looks in the picture.
 7. If all looks good upload files to your repo and commit to your master branch.
 
