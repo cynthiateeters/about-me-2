@@ -1,4 +1,4 @@
-# IDMX 225 Project 2 Add Footer and Change CSS
+# IDMX 225 Project 2 - Add Footer and Change CSS
 
 You are going to have to clone the files from Project 1 into this repo. Once you do that, you are going to edit index.html and styles.css to make the required changes. You are expected to read your text as preparation for this assignment. Also you must use our CSS formatting rules from the CISY 225 Style Guide.
 
