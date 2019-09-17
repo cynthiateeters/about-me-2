@@ -18,14 +18,17 @@ You are going to have to clone the files from Project 1 into this repo. Once you
 9. Go to [Coolors](https://coolors.co/app) and keep hitting space bar until you see a color you like.
 10. Select _ONE_ fairly dark color (your choice) and take note of its hex code. 
 11. Change your CSS so that the "hero", "iama" and the "footer" classes are your chosen color theme.
-12. Notice the line in the head that says:
+12. You are going to replace the current font with a different one. Notice the line in the head that says:
 
 `<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' rel='stylesheet' type='text/css'>`
 
-13. Search for "Google Fonts" on the Internet. Once in that page, use the top-right search for `Source Sans Pro`.
-14. Copy and paste the 2 links Google gives you.
-- Link that goes into the Head element
-- The other link goes into the styles.css
+and in `styles.css`
+
+
+13. Search for "Google Fonts" on the Internet. Once in that page, use the top-right search for `Fira Sans`. Select `Fira Sans` and and to the selection font weights 400 and 600 (in the Customize tab).
+14. Copy and paste the 2 links Google gives you (in the Embed tab).
+- Replace the link that goes into the head element of `index.html`.
+- Replace the `font-family` rule in the `styles.css` file.
 15. From the design picture, note the look of the text in the footer matches the text of the person's name in the header. You should add css that does the same for your footer.
 
 ### Before Calling It Finished
