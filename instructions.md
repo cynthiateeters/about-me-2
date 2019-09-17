@@ -12,7 +12,9 @@ Once you do that, you are going to edit index.html and styles.css to make the re
 4. You are going to add a footer that looks like the header. Add a semantic HTML footer (with class footer) element to your HTML code. See the header element that is already there for an example. The footer has to go in the correct spot in the index.html file. It goes in right after the main close tag and before the close html tag.
 
 
-`<footer class="footer"> footer stuff goes here </footer>`
+```html
+<footer class="footer"> footer stuff goes here </footer>
+```
 
 5. Note: You should regularly commit and push to your master branch.
 6. Add a copyright statement inside your footer using your name. See your text to get the code for a copyright symbol.
@@ -24,10 +26,19 @@ Once you do that, you are going to edit index.html and styles.css to make the re
 11. Change your CSS so that the "hero", "iama" and the "footer" classes are your chosen color theme.
 12. You are going to replace the current font with a different one. Notice the line in the head that says:
 
-`<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' rel='stylesheet' type='text/css'>`
+```html
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' rel='stylesheet' type='text/css'>
+```
 
 and in `styles.css`
 
+```css
+body {
+  font-family: sans-serif;
+  margin: 0;
+
+}
+```
 
 13. Search for "Google Fonts" on the Internet. Once in that page, use the top-right search for `Fira Sans`. Select `Fira Sans` and and to the selection font weights 400 and 600 (in the Customize tab).
 14. Copy and paste the 2 links Google gives you (in the Embed tab).
