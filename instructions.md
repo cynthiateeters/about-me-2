@@ -5,7 +5,7 @@ You are going to have to clone the files from Project 1 into this repo. Once you
 1. Download the clone of your completed Project 1 repo.
 2. Copy your P1 files into this repo.
 3. Commit your repo and `push` it to GitHub.
-4. Add a semantic HTML footer (with class footer) element to your HTML code. See the header element that is already there for an example.
+4. Add a semantic HTML footer (with class footer) element to your HTML code. See the header element that is already there for an example. The footer has to go in the correct spot in the index.html file.
 
 
 `<footer class="footer"> footer stuff goes here </footer>`
