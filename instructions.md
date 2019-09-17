@@ -54,16 +54,14 @@ body {
 ### Google Fonts Cheat Sheet Pictures
 
 #### Finding Google Fonts Fira Sans and Selecting It
-![Finding Google Fonts Fira Sans and Selecting It]
 
 <img src="https://github.com/cynthiateeters/about-me-2/blob/master/design/fonts-fira-sans.png" width="400">
 
 #### Customizing to Get Font Weights 400 and 600
-![Customizing to Get Font Weights 400 and 600]
 
 <img src="https://github.com/cynthiateeters/about-me-2/blob/master/design/customize.png" width="400">
+
 #### Copy Embed Code for HTML and CSS
-![Copy Embed Code for HTML and CSS]
 
 <img src="https://github.com/cynthiateeters/about-me-2/blob/master/design/embed.png" width="400">
 
