@@ -14,7 +14,7 @@ You are going to have to clone the files from Project 1 into this repo. Once you
 6. Add a copyright statement inside your footer using your name. See your text to get the code for a copyright symbol.
 7. Look at the picture in this repo's design folder. You are going to make changes to the CSS to copy how the footer looks in the picture.
 
-8. One of the first things is to change the background color of the header and footer.
+8. One of the first things to change is the background color of the header and footer.
 9. Go to [Coolors](https://coolors.co/app) and keep hitting space bar until you see a color you like.
 10. Select _ONE_ fairly dark color (your choice) and take note of its hex code. 
 11. Change your CSS so that the "hero", "iama" and the "footer" classes are your chosen color theme.
@@ -24,9 +24,12 @@ You are going to have to clone the files from Project 1 into this repo. Once you
 
 13. Search for "Google Fonts" on the Internet. Once in that page, use the top-right search for `Source Sans Pro`.
 14. Copy and paste the 2 links Google gives you.
-a. Link that goes into the Head element
-b. The other link goes into the styles.css
-15. Validate your html code and your CSS code. Check the formatting, making sure everything is properly nested. [CSS Validation](https://jigsaw.w3.org/css-validator/) and [HTML Validation](https://jigsaw.w3.org/css-validator/)
-16. Edit your README.md file changing it to be a README.md for P2. Delete anything to do with P1 and add a desccription for P2.
-17. Commit all changes to GitHub. 
+- Link that goes into the Head element
+- The other link goes into the styles.css
+15. From the design picture, note the look of the text in the footer matches the text of the person's name in the header. You should add css that does the same for your footer.
+
+### Before Calling It Finished
+* Validate and correct your html code and your CSS code. Check the formatting, making sure everything is properly nested. [CSS Validation](https://jigsaw.w3.org/css-validator/) and [HTML Validation](https://jigsaw.w3.org/css-validator/)
+* Edit your README.md file changing it to be a README.md for P2. Delete anything to do with P1 and add a desccription for P2.
+* Commit all changes to GitHub. 
 
