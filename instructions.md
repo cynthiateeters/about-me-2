@@ -41,7 +41,7 @@ body {
 }
 ```
 
-13. Search for "Google Fonts" on the Internet. Once in that page, use the top-right search for `Fira Sans`. Select `Fira Sans` and to the selection add font weights 400 and 600 (in the Customize tab).
+13. Search for "Google Fonts" on the Internet. Once in that page, use the top-left search for `Fira Sans`. Select `Fira Sans` and, to the selection, add font weights 400 and 600 (in the Customize tab). See the Google Fonts Cheat Sheet Images below.
 14. Copy and paste the 2 pieces of code Google gives you (in the Embed tab).
 - *Replace* the link that goes into the head element of `index.html`.
 - *Replace* the `font-family` rule in the `styles.css` file.
