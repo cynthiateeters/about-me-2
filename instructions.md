@@ -1,11 +1,15 @@
 # IDMX 225 Project 2 - Add Footer and Change CSS
 
-You are going to have to clone the files from Project 1 into this repo. Once you do that, you are going to edit index.html and styles.css to make the required changes. You are expected to read your text as preparation for this assignment. Also you must use our CSS formatting rules from the CISY 225 Style Guide.
+You are going to have to clone the files from Project 1 and copy all those files into this repo, keeping the file structure as it should be. 
+
+Once you do that, you are going to edit index.html and styles.css to make the required changes. You are expected to read your text as preparation for this assignment. Also you must use our CSS formatting rules from the IDMX 225 Style Guide.
+
+## Steps
 
 1. Download the clone of your completed Project 1 repo.
-2. Copy your P1 files into this repo.
+2. Copy your P1 folders and files into this repo.
 3. Commit your repo and `push` it to GitHub.
-4. Add a semantic HTML footer (with class footer) element to your HTML code. See the header element that is already there for an example. The footer has to go in the correct spot in the index.html file.
+4. You are going to add a footer that looks like the header. Add a semantic HTML footer (with class footer) element to your HTML code. See the header element that is already there for an example. The footer has to go in the correct spot in the index.html file. It goes in right after the main close tag and before the close html tag.
 
 
 `<footer class="footer"> footer stuff goes here </footer>`
@@ -33,6 +37,6 @@ and in `styles.css`
 
 ### Before Calling It Finished
 * Validate and correct your html code and your CSS code. Check the formatting, making sure everything is properly nested. [CSS Validation](https://jigsaw.w3.org/css-validator/) and [HTML Validation](https://jigsaw.w3.org/css-validator/)
-* Edit your README.md file changing it to be a README.md for P2. Delete anything to do with P1 and add a desccription for P2.
+* Edit your `README.md` file changing it to be a `README.md` for P2. Delete anything to do with P1 and add a desccription for P2.
 * Commit all changes to GitHub. 
 
