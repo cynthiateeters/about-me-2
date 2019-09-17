@@ -27,7 +27,8 @@ Once you do that, you are going to edit index.html and styles.css to make the re
 12. You are going to *replace* the current font with a different one. Notice the line in the head tag that says:
 
 ```html
-<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' rel='stylesheet' 
+      type='text/css'>
 ```
 
 and in `styles.css`
