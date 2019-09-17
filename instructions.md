@@ -9,11 +9,13 @@ Once you do that, you are going to edit index.html and styles.css to make the re
 1. Download the clone of your completed Project 1 repo.
 2. Copy your P1 folders and files into this repo.
 3. Commit your repo and `push` it to GitHub.
-4. You are going to add a footer that looks like the header. Add a semantic HTML footer (with class footer) element to your HTML code. See the header element that is already there for an example. The footer has to go in the correct spot in the index.html file. It goes in right after the main close tag and before the close html tag.
+4. You are going to add a footer that looks like the header. Add a semantic HTML footer (with class footer) element to your HTML code. See the header element that is already there for an example. The footer has to go in the correct spot in the index.html file. It goes in right after the main close tag and before the body close tag.
 
 
 ```html
-<footer class="footer"> footer stuff goes here </footer>
+   </main>
+   <footer class="footer"> footer stuff goes here </footer>
+</body>
 ```
 
 5. Note: You should regularly commit and push to your master branch.
