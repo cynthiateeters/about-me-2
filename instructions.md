@@ -19,7 +19,7 @@ Once you do that, you are going to edit index.html and styles.css to make the re
 ```
 
 5. Note: You should regularly commit and push to your master branch.
-6. Add a copyright statement inside your footer using your name. See your text to get the code for a copyright symbol.
+6. Add a copyright statement inside your footer using your name. See your textbook to get the code for a copyright symbol.
 7. Look at the picture in this repo's design folder. You are going to make changes to the CSS to copy how the footer looks in the picture.
 
 8. One of the first things to change is the background color of the header and footer.
@@ -29,8 +29,8 @@ Once you do that, you are going to edit index.html and styles.css to make the re
 12. You are going to *replace* the current font with a different one. Notice the line in the head tag that says:
 
 ```html
-<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' rel='stylesheet' 
-      type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' 
+      rel='stylesheet' type='text/css'>
 ```
 
 and in `styles.css`
@@ -50,7 +50,7 @@ body {
 15. From the design picture, note the look of the text in the footer matches the text of the person's name in the header. You should add css that does the same for your footer that is done in the hero class.
 
 ### Before Calling It Finished
-* Validate and correct your html code and your CSS code. Check the formatting, making sure everything is properly nested. [CSS Validation](https://jigsaw.w3.org/css-validator/) and [HTML Validation](https://www.freeformatter.com/html-validator.html)
+* Validate and correct your html code and your CSS code. Check the formatting, making sure everything is properly nested. [CSS Validation](https://jigsaw.w3.org/css-validator/) https://jigsaw.w3.org/css-validator/ and [HTML Validation](https://www.freeformatter.com/html-validator.html) https://www.freeformatter.com/html-validator.html
 * Edit your `README.md` file changing it to be a `README.md` for P2. Delete anything to do with P1 and add a desccription for P2.
 * Commit all changes to GitHub. 
 
