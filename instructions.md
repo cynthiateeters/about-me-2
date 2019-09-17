@@ -8,6 +8,8 @@ You are going to have to clone the files from Project 1 into this repo. Once you
 4. Add a semantic HTML footer (with class footer) element to your HTML code. See the header element that is already there for an example.
 
 
+`<footer class="footer"> footer stuff goes here </footer>`
+
 5. Note: You should regularly commit and push to your master branch.
 6. Add a copyright statement inside your footer using your name. See your text to get the code for a copyright symbol.
 7. Look at the picture in this repo's design folder. You are going to make changes to the CSS to copy how the footer looks in the picture.
@@ -28,6 +30,3 @@ b. The other link goes into the styles.css
 16. Edit your README.md file changing it to be a README.md for P2. Delete anything to do with P1 and add a desccription for P2.
 17. Commit all changes to GitHub. 
 
-`<footer class="footer">
-
-</footer>`
