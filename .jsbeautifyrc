@@ -1,0 +1,19 @@
+{
+  "indent_size": 2,
+  "indent_char": " ",
+  "extra-liners": [
+    "html",
+    "head",
+    "body",
+    "section",
+    "article",
+    "main",
+    "header",
+    "footer"
+  ],
+  "beautify.language": {
+    "html": ["html", "php", "erb"],
+    "css": [],
+    "js": []
+  }
+}

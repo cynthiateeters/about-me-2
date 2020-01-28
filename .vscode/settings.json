@@ -1,0 +1,126 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "editor.insertSpaces": true,
+  "editor.wordWrap": "on",
+  "terminal.integrated.fontSize": 12,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "window.zoomLevel": 2,
+  "editor.fontSize": 12,
+  "files.autoSave": "off",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "editor.accessibilitySupport": "off",
+  "htmltagwrap.tag": "div",
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+  },
+  "workbench.sideBar.location": "left",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "markdown": "html",
+    "svg": "html"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "editor.formatOnPaste": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "foreground": "#4d4d4d",
+          "fontStyle": " bold italic"
+        }
+      }
+    ]
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontFamily": "'Operator Mono Lig','Fira Code', 'Input Mono', Hack, Menlo, Monaco,  'Courier New', monospace",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "400",
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "?",
+      "color": "#0000ff",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "*",
+      "color": "#339933",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "DFN:",
+      "color": "#8B008B",
+      "strikethrough": false,
+      "fontStyle": "bold",
+      "backgroundColor": "transparent"
+    }
+  ],
+  "emojisense.languages": {
+    "markdown": true,
+    "git-commit": true,
+    "plaintext": true,
+    "json": true,
+    "javascript": true
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "terminal.integrated.shell.osx": "/bin/bash",
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingQuotes": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorTheme": "Winter is Coming (Light)",
+  "editor.formatOnSave": true,
+  "html.format.endWithNewline": true,
+  "html.format.indentInnerHtml": true,
+  "[xml]": {
+    "editor.defaultFormatter": "DotJoshJohnson.xml"
+  },
+  "editor.detectIndentation": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.markdownlint": true
+  }
+}
